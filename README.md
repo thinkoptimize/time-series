@@ -23,4 +23,4 @@ Görselleştirme grafik ve tabloları
 Bu proje sadece eğitim ve araştırma amaçlıdır. İçerdiği hiçbir tahmin yatırım tavsiyesi olarak değerlendirilmemelidir. Her yatırım kararı bireyin kendi sorumluluğundadır.
 
 ## 📝 Blog Yazısı:
-👉 Detaylı blog yazısına buradan ulaşabilirsiniz. (linki eklemeyi unutma)
+👉 Detaylı blog yazısına (https://thinkoptimize.com/2025/07/01/ts001/) ulaşabilirsiniz.
